@@ -43,7 +43,7 @@ class Game
         end
         puts
       end
-      
+      puts
     end
   end
   
